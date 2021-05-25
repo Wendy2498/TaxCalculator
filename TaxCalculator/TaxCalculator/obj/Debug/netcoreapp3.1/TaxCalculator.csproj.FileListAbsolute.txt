@@ -1,0 +1,15 @@
+C:\murach\C#\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.exe
+C:\murach\C#\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.deps.json
+C:\murach\C#\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.runtimeconfig.json
+C:\murach\C#\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.runtimeconfig.dev.json
+C:\murach\C#\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.dll
+C:\murach\C#\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.pdb
+C:\murach\C#\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.csprojAssemblyReference.cache
+C:\murach\C#\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.Form1.resources
+C:\murach\C#\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.csproj.GenerateResource.cache
+C:\murach\C#\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.AssemblyInfoInputs.cache
+C:\murach\C#\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.AssemblyInfo.cs
+C:\murach\C#\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.csproj.CoreCompileInputs.cache
+C:\murach\C#\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.dll
+C:\murach\C#\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.pdb
+C:\murach\C#\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.genruntimeconfig.cache
