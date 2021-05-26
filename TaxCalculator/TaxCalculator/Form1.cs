@@ -3,6 +3,10 @@
  * Extra 6-2
  * Wk 4 Murach Coding Assignments (Teamword done individually)*/
 
+/*Wendy Faulk
+* Adding a comment in VSC from GitHub desktop from GitHub website */
+
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
